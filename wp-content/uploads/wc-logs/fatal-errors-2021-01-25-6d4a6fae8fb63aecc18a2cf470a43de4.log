@@ -1,0 +1,13 @@
+2021-01-25T07:22:56+00:00 CRITICAL Uncaught Exception: WPGMZA\Marker ID '4' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.crud.php:413
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.crud.php(84): WPGMZA\Crud->read('single-read')
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.marker.php(29): WPGMZA\Crud->__construct('wp_wpgmza', '4', 'single-read')
+#2 [internal function]: WPGMZA\Marker->__construct('4')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.factory.php(57): ReflectionClass->newInstanceArgs(Array)
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.rest-api.php(857): WPGMZA\Factory::createInstance('4')
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.rest-api.php(147): WPGMZA\RestAPI->markers(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1160): WPGMZA\RestAPI->WPGMZA\{closure}(Object(WP_REST_Request))
+ in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-google-maps\includes\class.crud.php on line 413
+
+2021-01-25T10:10:53+00:00 CRITICAL Out of memory (allocated 92274688) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php on line 231
+

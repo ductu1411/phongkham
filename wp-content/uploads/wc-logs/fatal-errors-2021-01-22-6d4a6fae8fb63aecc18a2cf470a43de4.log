@@ -1,0 +1,22 @@
+2021-01-22T06:07:43+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:08:43+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:10:08+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:12:08+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:14:09+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:16:10+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:18:11+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:20:12+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:48:31+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:49:31+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 376
+
+2021-01-22T06:51:29+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php on line 425
+

@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: MedicPress Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8080/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/01/demo-content-import-file_2021-01-25__04-15-21.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-25__04-15-21.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+SiteOrigin Editor - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+
+Regular Page Sidebar : 
+
+Navigation Menu - No Title - Widget already exists
+ProteusThemes: Opening Time - No Title - Widget already exists
+ProteusThemes: Icon List - No Title - Widget already exists
+
+Top Left : 
+
+Text - No Title - Widget already exists
+
+Top Right : 
+
+ProteusThemes: Icon Box - Address: - Widget already exists
+
+Shop Sidebar : 
+
+Cart - Cart - Widget already exists
+Product Categories - Product categories - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+
+Footer : 
+
+Text - No Title - Widget already exists
+Navigation Menu - Departments - Widget already exists
+Navigation Menu - Menu - Widget already exists
+ProteusThemes: Icon List - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+After import setup ended!

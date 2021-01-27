@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/proteusthemes/proteuswidgets" />
+      <path value="$PROJECT_DIR$/vendor/proteusthemes/sticky-menu" />
+      <path value="$PROJECT_DIR$/vendor/mexitek/phpcolors" />
+      <path value="$PROJECT_DIR$/vendor/proteusthemes/wp-customizer-utilities" />
+      <path value="$PROJECT_DIR$/vendor/proteusthemes/wai-aria-walker-nav-menu" />
+      <path value="$PROJECT_DIR$/vendor/proteusthemes/theme-registration-and-updates" />
+      <path value="$PROJECT_DIR$/vendor/tgmpa/tgm-plugin-activation" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+</project>

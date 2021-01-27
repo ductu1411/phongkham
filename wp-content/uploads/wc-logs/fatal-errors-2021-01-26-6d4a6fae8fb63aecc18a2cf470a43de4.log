@@ -1,0 +1,22 @@
+2021-01-26T02:17:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 437
+
+2021-01-26T04:20:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 462
+
+2021-01-26T10:48:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:09+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:11+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:13+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:14+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:17+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:18+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:19+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\wordpress\wp-includes\class-wp-editor.php on line 1312
+
+2021-01-26T10:48:49+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 36864 bytes) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 3953
+
